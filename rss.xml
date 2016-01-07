@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Festone]]></title>
+        <description><![CDATA[Festone]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 07 Jan 2016 16:45:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[FESTONE – 25 Jahre CSN]]></title>
+            <description><![CDATA[<article><h1>FESTONE – 25 Jahre CSN</h1><p>Sponsoring-Ansuchen</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d32952f96f24bfe0ea4c22149b00f540958a975d.png"></article>]]></description>
+            <link>undefinedfestone-25-jahre-csn/index.html</link>
+            <guid isPermaLink="false">3acd12b3-cc04-4801-8794-8b3d99c506c7</guid>
+            <pubDate>Thu, 07 Jan 2016 16:45:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
