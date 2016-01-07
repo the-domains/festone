@@ -1,6 +1,6 @@
 name: Festone
 favicon: null
-layout_spectrum: 0.44347654236480594
+layout_spectrum: 1
 typography_spectrum: 0.6213919341098517
 title: Festone - 25 Jahre CSN
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#fffefd'
+    - '#c8c0bd'
+    - '#302c2d'
+    - '#8a2b34'
+    - '#978f88'
   brandStrength: 0.6674035445321351
   lightness: 0.3709149328060448
   saturation: 0.8362911166623235
